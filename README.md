@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1CAMDliFVQ_wKYQFen1ZLJziImIPnXcmY" width="840" height="200" allow="autoplay">
+
 <h1 align="center">Hi 👋, I'm Saurabh Mittal</h1>
 <h3 align="center">A passionate Data analyst/Data Scientists in India.</h3>
 Saurabh
