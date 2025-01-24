@@ -1,4 +1,4 @@
-![logo](https://github.com/SaurabhM100890/SaurabhM100890/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Saurabh Mittal</h1>
 <h3 align="center">A passionate Data analyst/Data Scientists in India.</h3>
 Saurabh
